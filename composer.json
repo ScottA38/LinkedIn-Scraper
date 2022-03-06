@@ -1,0 +1,12 @@
+{
+    "name": "scottanderson/linked-in-scraper",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Scott Anderson",
+            "email": "94andersonsc@gmail.com"
+        }
+    ],
+    "require": {}
+}
